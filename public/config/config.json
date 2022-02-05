@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49845079817b24b20f6e143c62549c41895b8960",
+  "SCAN_LINK": "https://polygonscan.com/address/0x49845079817b24b20f6e143c62549c41895b8960",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Eggarmy NFT",
+  "SYMBOL": "EGGARMY",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 35000000000000,
+  "DISPLAY_COST": 12,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/eggarmy",
+  "SHOW_BACKGROUND": true
+}
